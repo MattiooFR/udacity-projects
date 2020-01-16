@@ -1,4 +1,4 @@
-# Bike Saring Prediction
+# Bike Sharing Prediction
 
 First deep learning project of my Udacity Nanodegree program.
 
