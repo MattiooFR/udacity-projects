@@ -2,7 +2,7 @@
 
 ___
 
-## [Bike Saring Prediction](bike-rental-prediction/)
+## [Bike Sharing Prediction](bike-rental-prediction/)
 
 This is a **13 hidden node** that predict the rate of usage for bike sharing with a wide range of previous data input like bike sharing usage, temperature, weather, ...
 
