@@ -140,7 +140,7 @@
 # Yamazaki zipper archive. Compression format used in DeepFreezer archiver utility created by Yamazaki Satoshi. Read and write support exists in TUGZip, IZArc and ZipZag
 *.yz1
 # The most widely used compression format on Microsoft Windows. Commonly used on Macintosh and Unix systems as well.
-# application/x-zoo 	zoo 	Multiple 	Multiple 	Yes 	
+# application/x-zoo 	zoo 	Multiple 	Multiple 	Yes
 *.zoo
 # Journaling (append-only) archive format with rollback capability. Supports deduplication and incremental update based on last-modified dates. Multi-threaded. Compresses in LZ77, BWT, and context mixing formats. Open source.
 *.zpaq
@@ -427,3 +427,4 @@ dmypy.json
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
 
+Cat_Dog_data/
