@@ -22,3 +22,7 @@ The **next step** was to make the training much more faster by removing all unac
 The **last step** was to clean the data and remove the most common words that were neutral and keeping the less used words but that had a stronger impact on determining if a review was positive or negative. This was also making the training and testing faster as the amount of inputs words drastically reduced.
 
 With all this, we managed to train our network faster by a factor of 50x, and keeping the accuracy around **80-85%**.
+
+## [Intro to Pytroch](intro-to-pytorch/)
+
+Course on how to use Pytorch to create neural network to classify images. We also learned how to save and load trained models. We used a pretrained model (DensNet with 121 layers) to classify a new set of data with dogs and cats, reaching an accuracy above 98%.
